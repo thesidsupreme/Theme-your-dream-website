@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+
+.tyd-logo {
+    margin-left: -140px;
+}
+
+@media (max-width: 640px) {
+    .tyd-logo {
+        margin-left: -20px;
+    }
+}
+
+/* @media (min-width: 640px) {
+    .logo {
+        height: 100%;
+    }
+} */
